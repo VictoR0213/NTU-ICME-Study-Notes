@@ -1,0 +1,17 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.bak
+.vscode/
+.idea/
+
+# Local working files
+work/
+tmp/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
